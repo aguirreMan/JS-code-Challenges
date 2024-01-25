@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/halloween.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+header {
+    text-align: center;
+    padding: 25px;
+    font-family: "Creepster", system-ui;
+    font-weight: 500;
+    color: rgb(113, 1, 1);
+    font-size: 2em;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: rgb(147, 0, 0);
+    margin: 5px;
+    font-size: 1.3em;
+    font-family: "creepster", system-ui;
+}
